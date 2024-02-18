@@ -155,7 +155,7 @@ ul li span:hover{
     }
     
     input{
-        flex: 1;
+        width: 200px;
         border: none;
         outline: none;
         background: transparent;
