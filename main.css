@@ -114,7 +114,7 @@ ul li span:hover{
     background: #edeef0;
 }
 
-@media(max-width:425px){
+@media(max-width:430px){
     body{
         border: 3px solid black;
         width: 100vw;
