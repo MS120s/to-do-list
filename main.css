@@ -136,7 +136,7 @@ ul li span:hover{
     }
 
     .todo-app h2{
-        color: red;
+        color: #002765;
         display: flex;
         align-items: center;
         margin-bottom: 20px;
@@ -197,7 +197,7 @@ ul li span:hover{
          background-image: url(images/unchecked.png);
          background-size: cover;
          background-position: center;
-         top: 12px;
+         top: 9px;
          left: 8px;
     }
     
