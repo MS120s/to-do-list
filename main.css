@@ -144,12 +144,14 @@ ul li span:hover{
 
     .row{
         display: flex;
-        align-items: center;
-        justify-content: space-between;
+        align-items: flex-start;
+        flex-direction: column;
+        justify-content: left;
         background-color: #edeef0;
         border-radius: 30px;
         padding-left: 20px;
         margin-bottom: 25px;
+        position: relative;
     }
     
     input{
@@ -172,6 +174,9 @@ ul li span:hover{
         cursor: pointer;
         border-radius: 40px;
         flex: 0.5;
+        position: absolute;
+        bottom: -30px;
+        right: 0;
     }
     
     ul li{
