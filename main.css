@@ -115,10 +115,7 @@ ul li span:hover{
 }
 
 @media(max-width:430px){
-    body{
-        border: 3px solid black;
-        width: 100vw;
-    }
+
     .container{
         width: 100%;
         min-height: 100dvh;
@@ -150,6 +147,7 @@ ul li span:hover{
         border-radius: 30px;
         padding-left: 20px;
         margin-bottom: 25px;
+        width: 100%;
     }
     
     input{
